@@ -1,4 +1,4 @@
-# Create multiple instances wit terraform
+# Create multiple instances with  terraform
 ## 1. Install terraform
 ### https://www.terraform.io/downloads.html
 
